@@ -1,3 +1,3 @@
 # cccamp2019
 
-- [ ] Campingtisch -> @Samuel
+- [ ] Campingtisch -> @samuelb
