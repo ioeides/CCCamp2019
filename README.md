@@ -1,5 +1,4 @@
-# CCCamp2019
+# cccamp2019
 
 - [ ] Campingtisch -> Samuel
-- [ ] Grill mit Gasflasche -> Samuel
-- [ ] Campingstuehle -> Bouni
+- [ ] Test
