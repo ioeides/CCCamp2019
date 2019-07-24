@@ -1,5 +1,9 @@
 # CCCamp2019
 
+## Wiki
+
+Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Page) zu finden
+
 ## An- und Abreise
 
 - Anreise: Dienstag, 20.08.19
