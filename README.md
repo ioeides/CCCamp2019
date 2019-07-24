@@ -34,6 +34,9 @@ Ich hab vor längerer Zeit mal ein paar vom ccczh gefragt, aber noch keine Antwo
 - [ ] Mehrfachsteckdosen -> Reaktor
 - [ ] Geschirr / Besteck -> Reaktor?
 - [ ] Teelicht Raclette Geräte -> Valentin & Bouni
+- [ ] Wasserkanister
+- [ ] Camingdusche!?
+    - Gibst da öffentliche Duschen?
 
 ### Individuell
 
@@ -42,6 +45,11 @@ Nur um nichts zu vergessen ;-)
 - [ ] Schlafsack
 - [ ] Isomatte
 - [ ] Ladegeräte
+- [ ] Handtücher
+- [ ] Kopfbedeckung
+- [ ] Sonnencreme
+- [ ] Ticket auf Totholz
+- [ ] Wiederbefüllbare Wasserflasche
 
 ## Verpflegung die nicht vor Ort gekauft wird
 
