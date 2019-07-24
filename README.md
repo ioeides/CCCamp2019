@@ -1,5 +1,9 @@
 # CCCamp2019
 
+## Location
+
+https://www.openstreetmap.org/#map=16/53.0314/13.3088
+
 ## Wiki
 
 Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Page) zu finden
