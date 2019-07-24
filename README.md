@@ -14,8 +14,8 @@ Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Pa
 - Abreise: Montag, 26.08.19
 
 Wollen wir Montag Abend die Nacht durch fahren? Wäre Verkehrstechnisch vielleicht sinnvoll! --Bouni  
-Finde ich gut, dann können wir gleich am Morgen die Lager erkunden und kennen uns schon ein bisschen aus. --Valentin
-
+Finde ich gut, dann können wir gleich am Morgen die Lager erkunden und kennen uns schon ein bisschen aus. --Valentin  
+Ich hab mal an das [CCC-CH Assembly](https://signup.c3assemblies.de/assembly/bbfd9fd7-9127-463f-a0f2-0932891bccd0) geschrieben ob wir uns anschliessen dürfen --Bouni
 ## Nachbarn
 
 Wollen wir mal schauen, ob wir in die Nähe von thematisch oder geografisch nahegelegenen Hackerspaces campen? Dann sollten wir uns mal umhören.  
