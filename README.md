@@ -16,6 +16,10 @@ Wollen wir Montag Abend die Nacht durch fahren? Wäre Verkehrstechnisch vielleic
 - [ ] Campingstuehle -> Bouni
 - [ ] Zelt -> ??
 - [ ] Kühltruhe 12VDC/230VAC -> ??
+- [ ] Verlängerungskabel -> Reaktor (16A CEE auf 6x 230VAC Shuko Verteilerkasten?)
+- [ ] Mehrfachsteckdosen -> Reaktor
+- [ ] Geschirr / Besteck -> Reaktor?
+- [ ] Teelicht Raclette Geräte -> Valentin & Bouni
 
 ### Individuell
 
@@ -27,6 +31,7 @@ Nur um nichts zu vergessen ;-)
 ## Verpflegung die nicht vor Ort gekauft wird
 
 - [ ] Grillfleisch vom Würtemberger -> Bouni
+- [ ] Käse für Rachlette -> Bouni
 
 ## Projekte
 
