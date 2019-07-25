@@ -35,8 +35,7 @@ Ich hab vor längerer Zeit mal ein paar vom ccczh gefragt, aber noch keine Antwo
 - [ ] Geschirr / Besteck -> Reaktor?
 - [ ] Teelicht Raclette Geräte -> Valentin & Bouni
 - [ ] Wasserkanister
-- [ ] Camingdusche!?
-    - Gibst da öffentliche Duschen?
+- [ ] Campingdusche (Gibst da öffentliche Duschen?) -> Samuel
 
 ### Individuell
 
