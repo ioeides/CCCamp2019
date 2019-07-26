@@ -8,6 +8,10 @@ https://www.openstreetmap.org/#map=16/53.0314/13.3088
 
 Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Page) zu finden
 
+## Chat
+
+[Rocket Chat Service](https://rocket.events.ccc.de/)
+
 ## An- und Abreise
 
 - Anreise: Dienstag, 20.08.19
