@@ -76,7 +76,7 @@ nicht aufgeht, werde ich trotzdem noch eine weitere Überweisung machen.
 - [ ] Wasserkanister
     - Vielleicht shoppen wir uns einfach einen bei Amazon o.ä. !?
 - [ ] Campingdusche (Gibst da öffentliche Duschen?) -> Samuel
-- [ ] [Faltbare Sackkarre](https://www.amazon.de/dp/B00MBBGIR0)
+- [ ] [Faltbare Sackkarre](https://www.amazon.de/dp/B00MB9UBZC) (26€)
     - Sicher kein Fehler um evtl. schwere Dinge bequem vom Auto zum Zelt und zurück bzw. generell übers Campgelände zu transportieren! 
 
 ### Individuell
