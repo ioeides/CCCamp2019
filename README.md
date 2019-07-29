@@ -78,6 +78,8 @@ nicht aufgeht, werde ich trotzdem noch eine weitere Überweisung machen.
 - [ ] Campingdusche (Gibst da öffentliche Duschen?) -> Samuel
 - [ ] [Faltbare Sackkarre](https://www.amazon.de/dp/B00MB9UBZC) (26€)
     - Sicher kein Fehler um evtl. schwere Dinge bequem vom Auto zum Zelt und zurück bzw. generell übers Campgelände zu transportieren! 
+- [ ] **Toilettenpapier!**
+- [ ] Slackline -> Bouni
 
 ### Individuell
 
