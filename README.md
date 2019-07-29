@@ -71,7 +71,8 @@ Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village
 - [ ] Campingtisch -> Samuel
 - [ ] Grill mit Gasflasche -> Samuel
 - [ ] Campingstuehle -> Bouni
-- [ ] Zelt -> ??
+- [ ] Zelt -> Bouni oder Samuel
+     - @Samuel ist deins qusai Rechteckig? Meins ist eher rund -> Was ist besser
 - [ ] ~~Kühltruhe 12VDC/230VAC -> ??~~
 - [ ] Verlängerungskabel -> Reaktor (16A CEE auf 6x 230VAC Schuko Verteilerkasten?)
 - [ ] Mehrfachsteckdosen -> Reaktor
