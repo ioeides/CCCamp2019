@@ -80,6 +80,7 @@ nicht aufgeht, werde ich trotzdem noch eine weitere Überweisung machen.
     - Sicher kein Fehler um evtl. schwere Dinge bequem vom Auto zum Zelt und zurück bzw. generell übers Campgelände zu transportieren! 
 - [ ] **Toilettenpapier!**
 - [ ] Slackline -> Bouni
+- [ ] Stapelkisten < 40x30x?? für den Kühlschrank im [cool-village](https://events.ccc.de/camp/2019/wiki/Village:Cool-village)
 
 ### Individuell
 
