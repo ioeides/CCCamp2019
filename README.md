@@ -62,7 +62,7 @@ nicht aufgeht, werde ich trotzdem noch eine weitere Überweisung machen.
 
 ## Camping Equipment
 
-## Kühlschrank
+### Kühlschrank
 
 Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village:Cool-village) für nur 48EUR für die gesamte Dauer des Camps reserviert :thumbsup:
 
