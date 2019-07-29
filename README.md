@@ -62,13 +62,17 @@ nicht aufgeht, werde ich trotzdem noch eine weitere Überweisung machen.
 
 ## Camping Equipment
 
+## Kühlschrank
+
+Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village:Cool-village) für nur 48EUR für die gesamte Dauer des Camps reserviert :thumbsup:
+
 ### Allgemein
 
 - [ ] Campingtisch -> Samuel
 - [ ] Grill mit Gasflasche -> Samuel
 - [ ] Campingstuehle -> Bouni
 - [ ] Zelt -> ??
-- [ ] Kühltruhe 12VDC/230VAC -> ??
+- [ ] ~~Kühltruhe 12VDC/230VAC -> ??~~
 - [ ] Verlängerungskabel -> Reaktor (16A CEE auf 6x 230VAC Schuko Verteilerkasten?)
 - [ ] Mehrfachsteckdosen -> Reaktor
 - [ ] Geschirr / Besteck -> Reaktor?
