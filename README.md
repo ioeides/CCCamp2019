@@ -76,6 +76,7 @@ Nur um nichts zu vergessen ;-)
 - [ ] Sonnencreme
 - [ ] Ticket auf Totholz
 - [ ] Wiederbefüllbare Wasserflasche
+- [ ] Badehose
 
 ## Verpflegung die nicht vor Ort gekauft wird
 
