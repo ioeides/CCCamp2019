@@ -23,41 +23,15 @@ Finde ich gut, dann können wir gleich am Morgen die Lager erkunden und kennen u
 ## Nachbarn
 
 Wir dürfen uns dem CCC-CH Assembly anschliessen :sunglasses:
+
+Wir sollten je eine Spende an den CCC-CH tätigen um die unkosten fürs Village mitzutragen:
 ```
-Moin!
-
-    danke erstmal für die Erklärung!
-
-        Daneben gibt es natürlich Platz für die Schlafzelte von ca. 40
-        Personen.  
-
-
-    Wir hatten geplant mit einem Schlafzelt für 6 Personen zu kommen, leider
-    kann ich nicht sagen wie gross das Teil ist, hatte es seit einigen
-    Jahren nicht mehr in Gebrauch, aber ich schätze mal sowas wie 3.5x3.5m.
-    Siehst du die Möglichkeit das wir das im Schlafzeltbereich aufstellen
-    und, natürlich gegen Beteiligung, das Gemeinschaftszelt mitnutzen?
-
-
-Ich denke dass ein 6 Personen Zelt weniger Platz braucht als drei
-kleine Zelte. Ich sehe da kein Problem. Es zwingt euch keiner zu einer
-Beteiligung, aber es ist natürlich toll für uns wenn mehr Geld
-reinkommt. Wir können das Geld, wenn genug reinkommt auch noch in Extras
-investieren (Licht, ...).
-
-    Wie viele Personen beteiligen sich denn aktuell am Zelt, bzw. an was für
-    einen Beitrag dachtet ihr?
-
-
-Ich habe persönlich CHF 65.- überwiesen* ich gehe aber auch davon aus
-dass ich das Zelt nicht gross nutzen werde weil ich mit dem Wohnmobil
-da bin, und die Wohnmobile dürfen leider nicht bei den Villages stehen.
-
-Gruss
-Daniel
-
-*Ich habe noch nicht gesehen wie es um die Finanzierung steht, wenn es
-nicht aufgeht, werde ich trotzdem noch eine weitere Überweisung machen.
+Postkonto 60-605459-2
+Chaos Computer Club Schweiz
+Birsfelderstrasse 6
+CH-4132 Muttenz
+IBAN: CH54 0900 0000 6060 5459 2
+Zahlungszweck: CCCamp19
 ```
 
 ## Camping Equipment
