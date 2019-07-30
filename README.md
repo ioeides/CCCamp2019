@@ -87,6 +87,7 @@ Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village
 - [ ] Slackline -> Bouni
 - [ ] Stapelkisten < 40x30x?? für den Kühlschrank im [cool-village](https://events.ccc.de/camp/2019/wiki/Village:Cool-village)
     - Die empfehlen eurokisten, hab ich aber keine, aber die [IKEA Boxen](https://www.ikea.com/de/de/p/samla-box-mit-deckel-transparent-s39885645/) inkl. Deckel sollten auch gehen (hab ich auch welche) -- Bouni 
+- [ ] Reaktor Aufkleber
 
 ### Individuell
 
