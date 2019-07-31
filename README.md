@@ -42,7 +42,9 @@ Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village
 
 ### Allgemein
 
-> **INFO**: Wurde ins die Issues/Projects verschoben. Gibt en bissel mehr Uebersicht und Raum fuer Konversationen.
+**INFO**: Wurde ins die Issues/Projects verschoben. Gibt en bissel mehr Uebersicht und Raum fuer Konversationen.
+
+https://github.com/samuelb/cccamp2019/projects/1
 
 ### Individuell
 
