@@ -44,7 +44,7 @@ Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village
 
 **INFO**: Wurde ins die Issues/Projects verschoben. Gibt en bissel mehr Uebersicht und Raum fuer Konversationen.
 
-https://github.com/samuelb/cccamp2019/projects/1
+Siehe https://github.com/samuelb/cccamp2019/projects/1
 
 ### Individuell
 
@@ -64,8 +64,7 @@ Nur um nichts zu vergessen ;-)
 
 ## Verpflegung die nicht vor Ort gekauft wird
 
-- [ ] Grillfleisch vom Würtemberger -> Bouni
-- [ ] Käse für Rachlette -> Bouni
+Siehe https://github.com/samuelb/cccamp2019/projects/1
 
 ## Projekte
 
