@@ -47,6 +47,7 @@ Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village
 - [ ] Campingstuehle -> Bouni
 - [ ] Zelt -> Bouni oder Samuel
      - @Samuel ist deins qusai Rechteckig? Meins ist eher rund -> Was ist besser
+       Samuel: Meins ist das https://www.google.com/search?q=easy+camp+taranto+600
 - [ ] ~~Kühltruhe 12VDC/230VAC -> ??~~
 - [ ] Verlängerungskabel -> Reaktor (16A CEE auf 6x 230VAC Schuko Verteilerkasten?)
 - [ ] Mehrfachsteckdosen -> Reaktor
@@ -54,6 +55,7 @@ Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village
 - [ ] Teelicht Raclette Geräte -> Valentin & Bouni
 - [ ] Wasserkanister
     - Vielleicht shoppen wir uns einfach einen bei Amazon o.ä. !?
+      Samuel: Meine [Campingdusche](https://www.amazon.de/gp/product/B07QGVKFVD/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) koennte auch zum Hande- Geschirrwaschen benutzt werden. Trinkwasser gibts auch in 5+L PET-Kanister, die einmal leer auch wieder befuellt werden koennen.
 - [ ] Campingdusche (Gibst da öffentliche Duschen?) -> Samuel
 - [ ] [Faltbare Sackkarre](https://www.amazon.de/dp/B00MB9UBZC) (26€)
     - Sicher kein Fehler um evtl. schwere Dinge bequem vom Auto zum Zelt und zurück bzw. generell übers Campgelände zu transportieren! 
@@ -77,6 +79,7 @@ Nur um nichts zu vergessen ;-)
 - [ ] Ticket auf Totholz
 - [ ] Wiederbefüllbare Wasserflasche
 - [ ] Badehose
+- [ ] Klamotten fuer jeder Wetterlage
 
 ## Verpflegung die nicht vor Ort gekauft wird
 
