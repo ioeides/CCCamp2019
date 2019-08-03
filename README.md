@@ -22,17 +22,7 @@ Finde ich gut, dann können wir gleich am Morgen die Lager erkunden und kennen u
 
 ## Nachbarn
 
-Wir dürfen uns dem CCC-CH Assembly anschliessen :sunglasses:
-
-Wir sollten je eine Spende an den CCC-CH tätigen um die unkosten fürs Village mitzutragen:
-```
-Postkonto 60-605459-2
-Chaos Computer Club Schweiz
-Birsfelderstrasse 6
-CH-4132 Muttenz
-IBAN: CH54 0900 0000 6060 5459 2
-Zahlungszweck: CCCamp19
-```
+Wir schliessen uns dem CCC-CH Assembly an :sunglasses:
 
 ## Camping Equipment
 
