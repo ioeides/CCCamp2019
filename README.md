@@ -2,7 +2,7 @@
 
 ## Location
 
-https://map.c3noc.net/#16.42/53.031589/13.308707
+https://map.events.ccc.de/
 
 ## Wiki
 
