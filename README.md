@@ -4,6 +4,10 @@
 
 https://map.events.ccc.de/
 
+## Fahrplan
+
+https://fahrplan.events.ccc.de/camp/2019/Fahrplan/
+
 ## Wiki
 
 Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Page) zu finden
@@ -14,11 +18,8 @@ Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Pa
 
 ## An- und Abreise
 
-- Anreise: Dienstag, 20.08.19
+- Anreise: Montag, 19.08.19 auf Dienstag, 20.08.19 über Nacht
 - Abreise: Montag, 26.08.19
-
-Wollen wir Montag Abend die Nacht durch fahren? Wäre Verkehrstechnisch vielleicht sinnvoll! --Bouni  
-Finde ich gut, dann können wir gleich am Morgen die Lager erkunden und kennen uns schon ein bisschen aus. --Valentin  
 
 ## Nachbarn
 
@@ -51,10 +52,6 @@ Nur um nichts zu vergessen ;-)
 - [ ] Badehose
 - [ ] Klamotten fuer jeder Wetterlage
 - [ ] Zahnbuerste
-
-## Verpflegung die nicht vor Ort gekauft wird
-
-Siehe https://github.com/samuelb/cccamp2019/issues
 
 ## Projekte
 
