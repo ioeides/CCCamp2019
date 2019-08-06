@@ -31,3 +31,28 @@
 - [ ] Ticket auf Totholz
 - [ ] Wiederbefüllbare Wasserflasche
 - [ ] Zahnbuerste
+
+## Bouni
+
+- [ ] Isomatte
+- [ ] Schlafsack
+- [ ] Badenhose + Handtuch
+- [ ] Klamotten
+- [ ] Regenjacke
+- [ ] Schampoo + Duschgel 
+- [ ] Deo
+- [ ] Ladegeräte
+- [ ] Kopfbedeckung
+- [ ] Ticket auf Totholz
+- [ ] Wiederbefüllbare Wasserflasche
+- [ ] Zahnbuerste
+- [ ] Sonnenbrille
+- [ ] Sonnencreme
+- [ ] Teller
+- [ ] Besteck
+- [ ] Tasse
+- [ ] Slackline
+- [ ] Cuttermesser + Ersatzklingen
+- [ ] EC & Kreditkarte
+- [ ] Campingstuhl
+- [ ] 2x Klappstuhl 
