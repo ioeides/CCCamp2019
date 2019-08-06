@@ -11,7 +11,6 @@
 - [ ] Kaffee Frenchpress + Muehle
 - [ ] Geschirr
 - [ ] Grill + Gas https://github.com/samuelb/cccamp2019/issues/4
-- [ ] Hut
 - [ ] Plane, Schnur, Tape
 - [ ] Sonnenbrille
 - [ ] Sonnencreme
