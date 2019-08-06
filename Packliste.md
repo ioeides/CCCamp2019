@@ -1,6 +1,6 @@
-= Packliste
+# Packliste
 
-== Samuel
+## Samuel
 - [ ] Akkuschrauber + Lampe
 - [ ] Bastelhardware (Rapsi etc)
 - [ ] Batterien (AA, AAA, 9V)
@@ -19,3 +19,7 @@
 - [ ] Toepfe
 - [ ] iFixit Werkzeugset
 - [ ] Proxxon Werkzeugkoffer
+- [ ] Isomatte
+- [ ] Schlafsack
+- [ ] Badenhose + Handtuch
+- [ ] Klamotten
