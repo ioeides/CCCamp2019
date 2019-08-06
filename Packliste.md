@@ -19,7 +19,11 @@
 - [ ] Toepfe
 - [ ] iFixit Werkzeugset
 - [ ] Proxxon Werkzeugkoffer
+- [ ] Hammer
 - [ ] Isomatte
 - [ ] Schlafsack
 - [ ] Badenhose + Handtuch
 - [ ] Klamotten
+- [ ] Regenjacke
+- [ ] Schampoo + Duschgel 
+- [ ] Deo
