@@ -56,3 +56,8 @@
 - [ ] EC & Kreditkarte
 - [ ] Campingstuhl
 - [ ] 2x Klappstuhl 
+- [ ] Fleisch vom Würtemberger
+- [ ] Käse
+- [ ] Raclettegerät mit Teelichtern
+- [ ] Feuerzeug
+
