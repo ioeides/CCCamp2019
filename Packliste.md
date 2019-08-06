@@ -60,4 +60,5 @@
 - [ ] Käse https://github.com/samuelb/cccamp2019/issues/19
 - [ ] Raclettegerät mit Teelichtern https://github.com/samuelb/cccamp2019/issues/19
 - [ ] Feuerzeug
+- [ ] Zelt
 
