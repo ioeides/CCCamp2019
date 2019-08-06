@@ -56,8 +56,8 @@
 - [ ] EC & Kreditkarte
 - [ ] Campingstuhl
 - [ ] 2x Klappstuhl 
-- [ ] Fleisch vom Würtemberger
-- [ ] Käse
-- [ ] Raclettegerät mit Teelichtern
+- [ ] Fleisch vom Würtemberger https://github.com/samuelb/cccamp2019/issues/18
+- [ ] Käse https://github.com/samuelb/cccamp2019/issues/19
+- [ ] Raclettegerät mit Teelichtern https://github.com/samuelb/cccamp2019/issues/19
 - [ ] Feuerzeug
 
