@@ -37,22 +37,6 @@ Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village
 
 Siehe https://github.com/reaktor23/cccamp2019/issues
 
-### Individuell
-
-Nur um nichts zu vergessen ;-)
-
-- [ ] Schlafsack
-- [ ] Isomatte
-- [ ] Ladegeräte
-- [ ] Handtücher
-- [ ] Kopfbedeckung
-- [ ] Sonnencreme
-- [ ] Ticket auf Totholz
-- [ ] Wiederbefüllbare Wasserflasche
-- [ ] Badehose
-- [ ] Klamotten fuer jeder Wetterlage
-- [ ] Zahnbuerste
-
 ### Packliste
 
 Siehe https://github.com/reaktor23/cccamp2019/blob/master/Packliste.md
