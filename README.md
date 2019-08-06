@@ -35,7 +35,7 @@ Kühlschrank ist via [cool-village](https://events.ccc.de/camp/2019/wiki/Village
 
 **INFO**: Wurde ins die Issues verschoben. Gibt en bissel mehr Uebersicht und Raum fuer Konversationen.
 
-Siehe https://github.com/samuelb/cccamp2019/issues
+Siehe https://github.com/reaktor23/cccamp2019/issues
 
 ### Individuell
 
@@ -52,6 +52,10 @@ Nur um nichts zu vergessen ;-)
 - [ ] Badehose
 - [ ] Klamotten fuer jeder Wetterlage
 - [ ] Zahnbuerste
+
+### Packliste
+
+Siehe https://github.com/reaktor23/cccamp2019/blob/master/Packliste.md
 
 ## Projekte
 
