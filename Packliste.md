@@ -27,3 +27,8 @@
 - [ ] Regenjacke
 - [ ] Schampoo + Duschgel 
 - [ ] Deo
+- [ ] Ladegeräte
+- [ ] Kopfbedeckung
+- [ ] Ticket auf Totholz
+- [ ] Wiederbefüllbare Wasserflasche
+- [ ] Zahnbuerste
