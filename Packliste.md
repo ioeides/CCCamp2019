@@ -64,3 +64,4 @@
 - [ ] Mehrfachsteckdosen
 - [ ] 16A Verteiler
 - [ ] Podcasts / Spotify Playlists
+- [ ] ronsole
