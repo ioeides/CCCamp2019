@@ -18,7 +18,7 @@ Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Pa
 
 ## An- und Abreise
 
-- Anreise: Montag, 19.08.19 auf Dienstag, 20.08.19 über Nacht
+- Anreise: Dienstag, 20.08.19, 06:00 Abfahrt, beladen am Abend zuvor
 - Abreise: Montag, 26.08.19
 
 ## Nachbarn
