@@ -16,6 +16,14 @@ Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Pa
 
 [Rocket Chat Service](https://rocket.events.ccc.de/)
 
+## POC
+2104 	Valentin Feldvermittlung Anschluss 1	
+2105 	Valentin Feldvermittlung Anschluss 2
+2106 	Valentin Feldvermittlung Anschluss 3	
+2107 	Valentin Feldvermittlung Anschluss 4	
+2999 	Valentin DECT
+8458 	Valentin Mobil
+
 ## An- und Abreise
 
 - Anreise: Dienstag, 20.08.19, 06:00 Abfahrt, beladen am Abend zuvor
