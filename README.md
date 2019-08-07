@@ -25,6 +25,11 @@ Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Pa
 - 8458 Valentin Mobil
 - 2322 Bouni DECT
 - 6123 Bouni Mobil
+- 4101 Samuel Mobil
+- 4102 Samuel DECT
+- 4103 Samuel SIP
+- 4100 Samuel Callgroup
+- 4023 Reaktor23 Callgroup
 
 ## An- und Abreise
 
