@@ -1,5 +1,8 @@
 # Packliste
 
+## Allgemein
+- [ ] Eventphone-SIM-Karte
+
 ## Samuel
 - [ ] Akkuschrauber + Lampe
 - [ ] Bastelhardware (Rapsi etc)
