@@ -70,3 +70,4 @@
 - [ ] ronsole
 - [ ] Vietnamesischer Kaffeefilter
 - [ ] Milchmädchen aus der Tube
+- [ ] Stabile Heringe (Feuerwehr)
