@@ -79,3 +79,5 @@
 - [ ] [Stapelkisten für cool-village](https://github.com/samuelb/cccamp2019/issues/11)
 - [ ] [Seil von der Rolle](https://github.com/samuelb/cccamp2019/issues/20)
 - [ ] [DECT Telefon](https://github.com/samuelb/cccamp2019/issues/24)
+- [ ] Erdschrauben
+- [ ] Schlagschrauber + Bitsatz
