@@ -10,6 +10,9 @@
 - [ ] Flipdot Matrix
 - [ ] [Faltsackkarre](https://github.com/samuelb/cccamp2019/issues/12)
 - [ ] [Expander](https://github.com/samuelb/cccamp2019/issues/12)
+- [ ] Labornetzteil
+- [ ] 24VDC Phoenix Netzteil
+- [ ] Chinamann DC-DC Wandler
 
 ## Samuel
 - [ ] Akkuschrauber + Lampe
