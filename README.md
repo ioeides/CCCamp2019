@@ -33,8 +33,9 @@ Das offizielle Camp Wiki ist [hier](https://events.ccc.de/camp/2019/wiki/Main_Pa
 
 ## An- und Abreise
 
-- Anreise: Dienstag, 20.08.19, 06:00 Abfahrt, beladen am Abend zuvor
-- Abreise: Montag, 26.08.19
+**INFO**: Wurde ins die Issues verschoben. Gibt en bissel mehr Uebersicht und Raum fuer Konversationen.
+
+Siehe https://github.com/reaktor23/cccamp2019/issues/23
 
 ## Nachbarn
 
