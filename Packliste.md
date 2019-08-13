@@ -3,6 +3,13 @@
 ## Allgemein
 - [ ] Eventphone-SIM-Karte
 
+## Reaktor
+- [ ] [Mehrfachsteckdosen](https://github.com/samuelb/cccamp2019/issues/5)
+- [ ] [16A Verteiler](https://github.com/samuelb/cccamp2019/issues/5)
+- [ ] ronsole
+- [ ] [Faltsackkarre](https://github.com/samuelb/cccamp2019/issues/12)
+- [ ] [Expander](https://github.com/samuelb/cccamp2019/issues/12)
+
 ## Samuel
 - [ ] Akkuschrauber + Lampe
 - [ ] Bastelhardware (Rapsi etc)
@@ -65,10 +72,7 @@
 - [ ] [Raclettegerät mit Teelichtern](https://github.com/samuelb/cccamp2019/issues/9)
 - [ ] Feuerzeug
 - [ ] [Zelt](https://github.com/samuelb/cccamp2019/issues/1)
-- [ ] [Mehrfachsteckdosen](https://github.com/samuelb/cccamp2019/issues/5)
-- [ ] [16A Verteiler](https://github.com/samuelb/cccamp2019/issues/5)
 - [ ] Podcasts / Spotify Playlists
-- [ ] ronsole
 - [ ] [Vietnamesischer Kaffeefilter](https://github.com/samuelb/cccamp2019/issues/7)
 - [ ] [Milchmädchen aus der Tube](https://github.com/samuelb/cccamp2019/issues/7)
 - [ ] Stabile Heringe (Feuerwehr)
