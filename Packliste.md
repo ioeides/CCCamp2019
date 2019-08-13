@@ -7,6 +7,7 @@
 - [ ] [Mehrfachsteckdosen](https://github.com/samuelb/cccamp2019/issues/5)
 - [ ] [16A Verteiler](https://github.com/samuelb/cccamp2019/issues/5)
 - [ ] ronsole
+- [ ] Flipdot Matrix
 - [ ] [Faltsackkarre](https://github.com/samuelb/cccamp2019/issues/12)
 - [ ] [Expander](https://github.com/samuelb/cccamp2019/issues/12)
 
