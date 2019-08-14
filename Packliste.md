@@ -13,6 +13,7 @@
 - [ ] Labornetzteil
 - [ ] 24VDC Phoenix Netzteil
 - [ ] Chinamann DC-DC Wandler
+- [ ] Widerstandssortiment, Transistoren, etc.
 
 ## Samuel
 - [ ] Akkuschrauber + Lampe
@@ -85,3 +86,5 @@
 - [ ] [DECT Telefon](https://github.com/samuelb/cccamp2019/issues/24)
 - [ ] Erdschrauben
 - [ ] Schlagschrauber + Bitsatz
+- [ ] LED Fug
+
