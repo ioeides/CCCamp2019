@@ -51,40 +51,48 @@
 
 - [ ] Isomatte
 - [ ] Schlafsack
+
 - [ ] Badenhose + Handtuch
 - [ ] Klamotten
 - [ ] Regenjacke
+- [ ] Kopfbedeckung
+- [ ] Sonnenbrille
+
 - [ ] Schampoo + Duschgel 
 - [ ] Deo
-- [ ] Ladegeräte
-- [ ] Kopfbedeckung
-- [ ] Ticket auf Totholz
-- [ ] Wiederbefüllbare Wasserflasche
 - [ ] Zahnbuerste
-- [ ] Sonnenbrille
 - [ ] Sonnencreme
+
+
+
+- [ ] Ticket auf Totholz
+- [ ] Podcasts / Spotify Playlists
+- [ ] EC & Kreditkarte
+- [ ] Ladegeräte
+
+- [ ] Wiederbefüllbare Wasserflasche
 - [ ] [Teller](https://github.com/samuelb/cccamp2019/issues/6)
 - [ ] [Besteck](https://github.com/samuelb/cccamp2019/issues/6)
 - [ ] [Tasse](https://github.com/samuelb/cccamp2019/issues/6)
 - [ ] [Becher/Krug](https://github.com/samuelb/cccamp2019/issues/6)
-- [ ] [Slackline](https://github.com/samuelb/cccamp2019/issues/14)
-- [ ] Cuttermesser + Ersatzklingen
-- [ ] EC & Kreditkarte
-- [ ] [Campingstuhl](https://github.com/samuelb/cccamp2019/issues/3)
-- [ ] [2x Klappstuhl](https://github.com/samuelb/cccamp2019/issues/3)
 - [ ] [Fleisch vom Würtemberger](https://github.com/samuelb/cccamp2019/issues/18)
 - [ ] [Käse](https://github.com/samuelb/cccamp2019/issues/9)
 - [ ] [Raclettegerät mit Teelichtern](https://github.com/samuelb/cccamp2019/issues/9)
-- [ ] Feuerzeug
-- [ ] [Zelt](https://github.com/samuelb/cccamp2019/issues/1)
-- [ ] Podcasts / Spotify Playlists
 - [ ] [Vietnamesischer Kaffeefilter](https://github.com/samuelb/cccamp2019/issues/7)
 - [ ] [Milchmädchen aus der Tube](https://github.com/samuelb/cccamp2019/issues/7)
+
+
+- [ ] Cuttermesser + Ersatzklingen
+- [ ] Erdschrauben
+- [ ] Schlagschrauber + Bitsatz
+- [ ] Feuerzeug
+- [ ] [Campingstuhl](https://github.com/samuelb/cccamp2019/issues/3)
+- [ ] [2x Klappstuhl](https://github.com/samuelb/cccamp2019/issues/3)
+- [ ] [Zelt](https://github.com/samuelb/cccamp2019/issues/1)
 - [ ] Stabile Heringe (Feuerwehr)
 - [ ] [Stapelkisten für cool-village](https://github.com/samuelb/cccamp2019/issues/11)
 - [ ] [Seil von der Rolle](https://github.com/samuelb/cccamp2019/issues/20)
-- [ ] [DECT Telefon](https://github.com/samuelb/cccamp2019/issues/24)
-- [ ] Erdschrauben
-- [ ] Schlagschrauber + Bitsatz
-- [ ] LED Fug
 
+- [ ] [DECT Telefon](https://github.com/samuelb/cccamp2019/issues/24)
+- [ ] LED Fug
+- [ ] [Slackline](https://github.com/samuelb/cccamp2019/issues/14)
