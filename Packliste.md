@@ -14,6 +14,8 @@
 - [ ] 24VDC Phoenix Netzteil
 - [ ] Chinamann DC-DC Wandler
 - [ ] Widerstandssortiment, Transistoren, etc.
+- [ ] Kaltegeraete Stecker (min fuer Switch)
+- [ ] Netzwerkkabel
 
 ## Samuel
 - [ ] Akkuschrauber + Lampe
