@@ -50,6 +50,7 @@
 - [ ] Ticket auf Totholz
 - [ ] Wiederbefüllbare Wasserflasche
 - [ ] Zahnbuerste
+- [ ] Grosse Muellsaecke (macht Dinge IP54)
 
 ## Bouni
 
