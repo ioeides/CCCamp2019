@@ -11,7 +11,7 @@
 | | |
 | Tanken 20.08.19 10:34 | 52.45€ |
 | Tanken 26.08.19 15:07 | 65.64€ |
-| Tanken (muss ich noch) | ?? |
+| Tanken (ca. n halben Tank) | 25.00€ |
 
 ## Imon
 | Was | Betrag |
