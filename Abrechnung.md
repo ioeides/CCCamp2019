@@ -1,5 +1,7 @@
 # Auslagen:
 
+**Gesamtausgaben = 742.59€, pro Kopf = 185.65€**
+
 ## Bouni:
 
 | Was | Betrag |
@@ -37,3 +39,5 @@
 | Sackkarre (falls ich die nicht selber behalte) | 42 € |
 | Eddings | ?? |
 | **Summe** | 66.00€ |
+
+
