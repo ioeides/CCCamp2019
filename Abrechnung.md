@@ -1,6 +1,6 @@
 # Auslagen:
 
-**Gesamtausgaben = 742.59€, pro Kopf = 185.65€**
+**Gesamtausgaben = 762.59€, pro Kopf = 190.65€**
 
 ## Bouni:
 
@@ -15,7 +15,7 @@
 | Tanken 26.08.19 15:07 | 65.64€ |
 | Tanken (ca. n halben Tank) | 25.00€ |
 | **Summe** | 409.79€ |
-| **Haben** | 224.14€ |
+| **Haben** | 219.14€ |
 
 ## Imon
 | Was | Betrag |
@@ -25,14 +25,14 @@
 |Tanken 26.08.19 17.47|53.57€|
 |Tanken 26.08.19 19.53|18.85 CHF|
 | **Summe** | 206.40€ |
-| **Haben** | 20.75€ |
+| **Haben** | 15.75€ |
 
 ## Valentin
 | Was | Betrag |
 | ------------- | ------------- |
 |Tanken 20.08.19 15.06|60.40€|
 | **Summe** | 60.40€ |
-| **Soll** | 125.25 |
+| **Soll** | 130.25 |
 
 ## Samuel
 
@@ -42,6 +42,6 @@
 | Eddings | 12.00€ |
 | cool-village | 50.00€ |
 | **Summe** | 86.00€ |
-| **Soll** | 99.65€ |
+| **Soll** | 104.65€ |
 
 
