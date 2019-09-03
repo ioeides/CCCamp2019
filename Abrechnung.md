@@ -38,10 +38,10 @@
 
 | Was | Betrag |
 | ------------- | ------------- |
-| Kaffee | 24 € (glaub ich) |
-| Sackkarre (falls ich die nicht selber behalte) | 42 € |
-| Eddings | ?? |
-| **Summe** | 66.00€ |
-| **Soll** | 119.65€ |
+| Kaffee | 24.00 € (glaub ich) |
+| Eddings | 12.00€ |
+| cool-village | 50.00€ |
+| **Summe** | 86.00€ |
+| **Soll** | 99.65€ |
 
 
